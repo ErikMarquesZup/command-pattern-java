@@ -1,0 +1,2 @@
+insert into commands(class_name,command_id,data) values ('org.durga.cmdpattern.commands.SendEmail', 'sendEmail', 'Dummy data');
+insert into commands(class_name,command_id,data) values ('org.durga.cmdpattern.commands.SendMessage', 'sendMessage', 'Dummy data');
